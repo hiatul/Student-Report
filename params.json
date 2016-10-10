@@ -1,0 +1,6 @@
+{
+  "name": "Student-report",
+  "tagline": "Student Report Generator",
+  "body": "# Student-Report\r\nA basic console application that can be used to handle the results of students.\r\nStudent records can be created with the required inputs to calculate the result.\r\nThe results can be modified at will before being finalized and then can be displayed.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
